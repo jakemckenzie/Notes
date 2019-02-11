@@ -2,7 +2,7 @@
 
 Obedience can be expensive in an environment of uncertainty. 
 Institutions fail when they can't change up, when they can't 
-respond to fluctuations in the game. The Lindy effect isn't complete 
+respond to fluctuations in the game. The [Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect) isn't complete 
 bullshit, there's something to be said for institutions who, 
 having survived for a bit continuing to survive a while longer. 
 This season is a testament to, in more ways than one, the argument 
