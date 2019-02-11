@@ -1,4 +1,4 @@
-#Season 2 of The Wire
+# Season 2 of The Wire
 
 Obedience can be expensive in an environment of uncertainty. 
 Institutions fail when they can't change up, when they can't 
