@@ -1,4 +1,5 @@
 #Season 2 of The Wire
+
 Obedience can be expensive in an environment of uncertainty. 
 Institutions fail when they can't change up, when they can't 
 respond to fluctuations in the game. The Lindy effect isn't complete 
@@ -11,7 +12,9 @@ respond to a changing world, the failure of McNulty fixing his marriage,
  the failure of the Barksdale organization to respond to having 
  an inferior product or even a failure of 
 the Greek's crime syndicate inability to protect their asset at the docks. 
-The second season of the wire is one big cluster fuck. It's a look 
+The second season of the wire is one big cluster fuck. 
+
+It's a look 
 at when institutions fail. At each stage it is their conformity to what 
 got them to where they were that failed each institution. The two key 
 non-governmental institutions that tried their best to change up, 
