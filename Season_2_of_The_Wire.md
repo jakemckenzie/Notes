@@ -1,4 +1,7 @@
-#Season 2 of The Wire
+---
+title: Season 2 of The Wire notes
+---
+
 Obedience can be expensive in an environment of uncertainty. 
 Institutions fail when they can't change up, when they can't 
 respond to fluctuation in the game. The Lindy effect isn't complete 
