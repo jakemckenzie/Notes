@@ -19,7 +19,7 @@ planning on only doing that perspective transformation on the rectangle of the p
 that may change. The perspective transformation will not be needed for turning the robot. Once the binary image is working jake will 
 start working on the orientationCapture algorithm which will sub up the rows and columns of each corer of the image. Since our bounding boxes 
 are fairly tight we can split the image into 9 boxes and sum up the 8 boxes separately. The boxes with the greatest sum, say the box in the top 
-left corner and bottom right will need hand orientation of 135 degrees.
+left corner and bottom right will need hand orientation of 135 degree to the right of north.
 * Brooke is figuring out the goto position for the hand and making one large function that will integrate with Alex's main arduino sketch.
 Once this is done the orientation of the hand will be tested with Jake.
 * Alex Boyle has been integrating all his separate arduino sketches together. That is mostly done and now he is moving onto avoiding obstacles and 
