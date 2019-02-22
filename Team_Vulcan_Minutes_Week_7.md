@@ -20,9 +20,9 @@ that may change. The perspective transformation will not be needed for turning t
 start working on the orientationCapture algorithm which will sub up the rows and columns of each corer of the image. Since our bounding boxes 
 are fairly tight we can split the image into 9 boxes and sum up the 8 boxes separately. The boxes with the greatest sum, say the box in the top 
 left corner and bottom right will need hand orientation of 135 degrees.
-*Brooke is figuring out the goto position for the hand and making one large function that will integrate with Alex's main arduino sketch.
+* Brooke is figuring out the goto position for the hand and making one large function that will integrate with Alex's main arduino sketch.
 Once this is done the orientation of the hand will be tested with Jake.
-*Alex Boyle has been integrating all his separate arduino sketches together. That is mostly done and now he is moving onto avoiding obstacles and 
+* Alex Boyle has been integrating all his separate arduino sketches together. That is mostly done and now he is moving onto avoiding obstacles and 
 serial communication with the pi. Ammon created a constants file with various serial commands as bytes and we plan to communicate those back and fourth 
 to each device. 
 
