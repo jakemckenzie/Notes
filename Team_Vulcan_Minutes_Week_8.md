@@ -11,7 +11,8 @@ if there are no shadows.
 * Alex Marlow is mostly done with his part and is getting placed with Ammon and Jake to work on getting the pi side 
 done fixing odds and ends. He has successfully gotten the object detection down to 2 to 2.5 seconds on the pi.
 * Jake needs to needs to get the perspective transformation working. He has completed and tested the orientation capture 
-which is working correctly on the pi and is fully integrated.
+which is working correctly on the pi and is fully integrated. Jake also made modifications to the screws on the bottom of the robot 
+so they won't drag and made a card board testing platform for testing perspective transformation and defining a pickup area.
 * Brooke has finished the hand orientation and goto position on the arduino side. She will be working with boyle going forward on 
 integration and helping boyle out.
-* Boyle is working on dead wreckoning and serial communication.
+* Boyle is working on dead reckoning and serial communication. He has line following and most of dead reckoning done but there are bugs.
